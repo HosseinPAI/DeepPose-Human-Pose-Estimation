@@ -1,0 +1,7 @@
+pytorch > 1
+numpy
+matplotlib
+Pillow
+scipy
+skimage
+imgaug
